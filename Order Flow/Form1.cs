@@ -15,6 +15,7 @@ namespace Order_Flow
         public Form1()
         {
             InitializeComponent();
+            panel14.BringToFront();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -23,6 +24,26 @@ namespace Order_Flow
         }
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_close_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void panel14_Paint(object sender, PaintEventArgs e)
+        {
+           
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
