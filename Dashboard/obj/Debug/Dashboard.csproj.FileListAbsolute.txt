@@ -1,0 +1,10 @@
+D:\Projetos\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Projetos\Dashboard\bin\Debug\Dashboard.exe
+D:\Projetos\Dashboard\bin\Debug\Dashboard.pdb
+D:\Projetos\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+D:\Projetos\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Projetos\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+D:\Projetos\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+D:\Projetos\Dashboard\obj\Debug\Dashboard.exe
+D:\Projetos\Dashboard\obj\Debug\Dashboard.pdb
+D:\Projetos\Dashboard\obj\Debug\Dashboard.Form1.resources
